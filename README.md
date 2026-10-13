@@ -5,10 +5,11 @@
 已完成“照片是否含薇甘菊”的双模型识别及粗区域定位，支持地面/无人机照片、电脑端批量识别、原图对照、下载标注图和导出CSV。当前V4.1不是精确植株分割系统；下文的早期实验设计及V2/V3交付记录为历史背景。
 
 - [下载安装包与模型](https://github.com/AtticusChen/Agricultural_Species_Identification/releases/tag/v4.1.0-test)
+- [直接下载 Windows 安装包](https://github.com/AtticusChen/Agricultural_Species_Identification/releases/download/v4.1.0-test/Mikania-Setup-4.1.0.exe) · [下载 ZIP 免安装包](https://github.com/AtticusChen/Agricultural_Species_Identification/releases/download/v4.1.0-test/mikania-windows-v4.1.0.zip)
 - Windows 10/11 x64：下载 `Mikania-Setup-4.1.0.exe` 双击安装，或完整解压 `mikania-windows-v4.1.0.zip` 后运行 `Mikania.exe`。
 - 内含Python环境、两个ONNX模型、原始PT权重、完整网页、源码和图文手册。无需预装Python、Docker或连接VPN；首次运行可能需要确认安装附带的微软VC++运行组件。
 - **测试交付版：尚未进行Windows实机安装验收，未做商业代码签名。** 已完成模型数值回放、网页功能与包完整性检查；详细见[发布记录](docs/v4_1-release-20261013.md)。
-- 默认私有仓库，下载需要登录获授权的GitHub账号。安装包、权重放在Releases；原始训练图片、标注数据、个人凭据和未发布专利材料不在Git中。
+- 本仓库按所有者要求公开，安装包可直接下载，无需仓库授权。安装包、权重放在Releases；原始训练图片、原始标注、个人凭据和未发布专利材料不在Git中，仅保留网页展示所需的处理后示例图片。
 
 V4.1提高检出率的同时存在误报：已有地面74张评估中TP54/FN2/FP4/TN14，阴性误报4/18（22.2%）；外部阳性照片检出98/100，无人机阳性照片检出42/43。后两组没有阴性，不能视为总体准确率。这些是已使用过的评估/开发数据，不是新增盲测。绿色区域仅供粗定位，识别结果需人工复核。
 
