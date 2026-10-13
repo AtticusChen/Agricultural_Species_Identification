@@ -1,0 +1,20 @@
+{
+  "version": "4.1.0",
+  "model_id": "mikania-ensemble-v4.1",
+  "decision_method": "scene_patch_min",
+  "threshold": 0.03896419005468488,
+  "scene_image_size": 512,
+  "patch_image_size": 320,
+  "pad_size": 768,
+  "scene_pad_square": true,
+  "patch_pad_square": true,
+  "tile_size": 1280,
+  "overlap": 0.2,
+  "region_threshold": 0.37,
+  "scene_source": "experiments/retraining_v4_1/H2_scene512_continue_G1/weights/best.pt",
+  "scene_pt_sha256": "946865bbe98b9b8212d19ad92d1201d092886727bdb513692ddaed9f5aeb8bd7",
+  "patch_source": "experiments/retraining_v4/G3_patch320_finetune/weights/best.pt",
+  "patch_pt_sha256": "834d1b2b2ba5d1360f2750af79eb0f94f677474d9444ecf033d8e361fe54a473",
+  "warning": "高召回试用版；历史地面18张阴性中误报4张，需人工复核。绿色区域不是精确边界。",
+  "promotion_authority": "User explicitly requested deployment on 2026-10-13 after disclosure of false positives."
+}

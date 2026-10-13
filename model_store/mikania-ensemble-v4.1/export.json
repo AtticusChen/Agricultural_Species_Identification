@@ -1,0 +1,57 @@
+{
+  "config": {
+    "version": "4.1.0",
+    "model_id": "mikania-ensemble-v4.1",
+    "decision_method": "scene_patch_min",
+    "threshold": 0.03896419005468488,
+    "scene_image_size": 512,
+    "patch_image_size": 320,
+    "pad_size": 768,
+    "scene_pad_square": true,
+    "patch_pad_square": true,
+    "tile_size": 1280,
+    "overlap": 0.2,
+    "region_threshold": 0.37,
+    "scene_source": "experiments/retraining_v4_1/H2_scene512_continue_G1/weights/best.pt",
+    "scene_pt_sha256": "946865bbe98b9b8212d19ad92d1201d092886727bdb513692ddaed9f5aeb8bd7",
+    "patch_source": "experiments/retraining_v4/G3_patch320_finetune/weights/best.pt",
+    "patch_pt_sha256": "834d1b2b2ba5d1360f2750af79eb0f94f677474d9444ecf033d8e361fe54a473",
+    "warning": "\u9ad8\u53ec\u56de\u8bd5\u7528\u7248\uff1b\u5386\u53f2\u5730\u976218\u5f20\u9634\u6027\u4e2d\u8bef\u62a54\u5f20\uff0c\u9700\u4eba\u5de5\u590d\u6838\u3002\u7eff\u8272\u533a\u57df\u4e0d\u662f\u7cbe\u786e\u8fb9\u754c\u3002",
+    "promotion_authority": "User explicitly requested deployment on 2026-10-13 after disclosure of false positives."
+  },
+  "torch": "2.13.0+cu130",
+  "mean": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "std": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "models": {
+    "scene": {
+      "file": "scene.onnx",
+      "sha256": "6ac96b85226f88919c239ffa7414b7a0a695319570d27d25cedc1bf9bf3c79c9",
+      "class_names": {
+        "0": "mikania",
+        "1": "non_mikania"
+      },
+      "mikania_index": 0,
+      "image_size": 512,
+      "transforms": "Compose(\n    Resize(size=512, interpolation=bilinear, max_size=None, antialias=True)\n    CenterCrop(size=(512, 512))\n    ToTensor()\n    Normalize(mean=tensor([0., 0., 0.]), std=tensor([1., 1., 1.]))\n)"
+    },
+    "patch": {
+      "file": "patch.onnx",
+      "sha256": "a0a21e09160fbd126ffd4e7166b66472a8f5728e89b9e53bd20bc52d0b688a79",
+      "class_names": {
+        "0": "mikania",
+        "1": "non_mikania"
+      },
+      "mikania_index": 0,
+      "image_size": 320,
+      "transforms": "Compose(\n    Resize(size=320, interpolation=bilinear, max_size=None, antialias=True)\n    CenterCrop(size=(320, 320))\n    ToTensor()\n    Normalize(mean=tensor([0., 0., 0.]), std=tensor([1., 1., 1.]))\n)"
+    }
+  }
+}

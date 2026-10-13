@@ -1,0 +1,37 @@
+{
+  "version": "mikania_detection_v1",
+  "seed": 20260804,
+  "group_window_minutes": 5,
+  "near_duplicate_dhash_threshold": 3,
+  "split_fractions": {
+    "train": 0.70,
+    "val": 0.15,
+    "test_internal": 0.15
+  },
+  "external_years": [2026],
+  "class_names": ["mikania"],
+  "link_mode": "symlink",
+  "negative_review_cohorts": [
+    "其他",
+    "三叶鬼针草",
+    "大青叶",
+    "假臭草",
+    "火炭母",
+    "水蓼",
+    "小花宽叶十万错"
+  ],
+  "missing_label_triage": {
+    "IMG_20251118_120123.jpg": "likely_positive",
+    "IMG_20251118_120154.jpg": "likely_positive",
+    "IMG_20251118_120224.jpg": "likely_positive",
+    "IMG_20251118_121000.jpg": "expert_review",
+    "IMG_20251118_121041.jpg": "likely_positive",
+    "IMG_20251118_121241.jpg": "expert_review",
+    "IMG_20251118_124117_1.jpg": "likely_positive",
+    "IMG_20251118_124124.jpg": "likely_positive",
+    "IMG_20251118_124135.jpg": "likely_positive",
+    "IMG_20251118_124146.jpg": "likely_positive",
+    "IMG_20251118_155035.jpg": "likely_positive",
+    "IMG_20251119_141029.jpg": "likely_positive"
+  }
+}

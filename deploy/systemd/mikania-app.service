@@ -1,0 +1,32 @@
+[Unit]
+Description=Mikania detection web application
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/cx/Agricultural_Species_Identification
+Environment=PYTHONPATH=/home/cx/Agricultural_Species_Identification/src
+Environment=PYTHONUNBUFFERED=1
+Environment=YOLO_CONFIG_DIR=/home/cx/Agricultural_Species_Identification/.ultralytics
+Environment=MIKANIA_MODEL_PATH=/home/cx/Agricultural_Species_Identification/model_store/mikania-yolo26s-cls-v3/model.pt
+Environment=MIKANIA_MODEL_TASK=ensemble
+Environment=MIKANIA_DEVICE=0
+Environment=MIKANIA_CLASSIFIER_IMAGE_SIZE=320
+Environment=MIKANIA_CLASSIFIER_TILE_SIZE=1280
+Environment=MIKANIA_CLASSIFIER_TILE_OVERLAP=0.20
+Environment=MIKANIA_SCENE_MODEL_PATH=/home/cx/Agricultural_Species_Identification/model_store/mikania-yolo26s-scene-v3/model.pt
+Environment=MIKANIA_SCENE_IMAGE_SIZE=384
+Environment=MIKANIA_SCENE_WEIGHT=0.25
+Environment=MIKANIA_REGION_THRESHOLD=0.37
+Environment=MIKANIA_DEFAULT_SCAN_MODE=precise
+Environment=MIKANIA_PRECISE_THRESHOLD=0.88
+Environment=MIKANIA_FAST_THRESHOLD=0.88
+ExecStart=/home/cx/.conda/envs/mikania-detect/bin/python -m uvicorn mikania_app.main:app --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+KillSignal=SIGINT
+TimeoutStopSec=30
+
+[Install]
+WantedBy=default.target

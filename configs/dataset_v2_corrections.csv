@@ -1,0 +1,9 @@
+source_image,action,reason
+raw-data/IMG_20251118_121229.jpg,convert_to_hard_negative,"画面主体为三叶鬼针草等非薇甘菊植物，无薇甘菊白色小花簇与心形对生叶组合"
+raw-data/IMG_20251118_121234.jpg,convert_to_hard_negative,"画面主体为三叶鬼针草等非薇甘菊植物"
+raw-data/IMG_20251118_121244.jpg,convert_to_hard_negative,"画面主体为三叶鬼针草与假臭草等非薇甘菊植物"
+raw-data/IMG_20251118_121249.jpg,convert_to_hard_negative,"画面主体为淡紫色头状花序、明显锯齿叶的假臭草"
+raw-data/IMG_20251118_121255.jpg,convert_to_hard_negative,"画面主体为淡紫色头状花序、明显锯齿叶的假臭草"
+raw-data/IMG_20251118_121300.jpg,convert_to_hard_negative,"画面主体为淡紫色头状花序、明显锯齿叶的假臭草"
+raw-data/IMG_20251118_121305.jpg,convert_to_hard_negative,"用户指出且序列核验确认：画面主体为假臭草，不是薇甘菊"
+raw-data/IMG_20251118_121308.jpg,convert_to_hard_negative,"画面主体为淡紫色头状花序、明显锯齿叶的假臭草"

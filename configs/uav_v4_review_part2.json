@@ -1,0 +1,1311 @@
+{
+  "DJI_0598.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0599.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0600.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0601.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0602.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0603.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0604.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0605.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0606.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0607.JPG": {
+    "label": "uncertain",
+    "reason": "高空道路与混合林冠画面，藤蔓叶形和花序分辨不足，不能排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0608.JPG": {
+    "label": "positive",
+    "reason": "原图复核：椰叶上攀附藤蔓具有心形叶和密集白色小花簇，暂定目标存在，非专家鉴定。",
+    "regions": [
+      [
+        0.5,
+        0.33,
+        0.7,
+        0.71
+      ]
+    ],
+    "negative_regions": []
+  },
+  "DJI_0609.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0610.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0611.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0612.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0613.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0614.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0615.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0616.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0617.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0618.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0619.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0620.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0621.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0622.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0623.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0624.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0625.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0626.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0627.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0628.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0629.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0630.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0631.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0632.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0633.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0634.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0635.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0636.JPG": {
+    "label": "positive",
+    "reason": "暂定正：棕榈或邻近低灌丛上可见攀援、披覆藤带及浅色小花簇，符合目标外观；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0637.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。 原图另复核：负裁剪仅取右侧细羽状复叶树冠，区内未见攀援心形叶或目标花簇，不代表整图阴性。",
+    "regions": [],
+    "negative_regions": [
+      [
+        0.77,
+        0.4,
+        0.96,
+        0.84
+      ]
+    ]
+  },
+  "DJI_0638.JPG": {
+    "label": "uncertain",
+    "reason": "棕榈下草层与混合藤被较密，当前可见叶形和花序不足以可靠判断。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0639.JPG": {
+    "label": "positive",
+    "reason": "原图复核：道路左侧标牌周边可辨细茎攀援、心形叶和小型白色花簇，暂定目标存在，非专家鉴定。 负裁剪仅取右侧无植被的水泥道路，不代表整图阴性。",
+    "regions": [
+      [
+        0.29,
+        0.45,
+        0.54,
+        0.81
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.7,
+        0.12,
+        0.96,
+        0.86
+      ]
+    ]
+  },
+  "DJI_0640.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0641.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0642.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0643.JPG": {
+    "label": "positive",
+    "reason": "原图复核：路灯杆及下方藤带被心形叶覆盖，顶部有密集浅色花簇，暂定目标存在，非专家鉴定。 负裁剪仅取左上部纯椰子羽状叶片区，避开前景藤蔓，不代表整图阴性。",
+    "regions": [
+      [
+        0.57,
+        0.34,
+        0.71,
+        0.64
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.285,
+        0.19,
+        0.445,
+        0.4
+      ]
+    ]
+  },
+  "DJI_0644.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0645.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0646.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0647.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0648.JPG": {
+    "label": "positive",
+    "reason": "原图复核：香蕉和棕榈为主体，但上部偏右棕榈杆上有攀附的开花藤团；不能作为整图负样本，暂定正。 负裁剪仅取右侧香蕉叶面，避开开花藤柱，不代表整图阴性。",
+    "regions": [
+      [
+        0.586,
+        0.167,
+        0.635,
+        0.278
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.74,
+        0.4,
+        0.83,
+        0.49
+      ]
+    ]
+  },
+  "DJI_0649.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0650.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0651.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0652.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0653.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0654.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0655.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0656.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0657.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0658.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0659.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0660.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0661.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0662.JPG": {
+    "label": "positive",
+    "reason": "原图复核：中央偏上树隙中可见连续浅色小花簇和披覆藤带，暂定目标存在，非专家鉴定。 负裁剪仅取左上裸土及棕榈干附近清理地面，避开中央藤带，不代表整图阴性。",
+    "regions": [
+      [
+        0.5,
+        0.265,
+        0.6,
+        0.4
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.18,
+        0.075,
+        0.29,
+        0.18
+      ]
+    ]
+  },
+  "DJI_0663.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0664.JPG": {
+    "label": "positive",
+    "reason": "原图复核：虽以裸地和屋顶为主，上部中央仍有开花攀援藤柱，暂定目标存在，非专家鉴定。 负裁剪仅取右侧无遮蔽屋顶，不代表整图阴性。",
+    "regions": [],
+    "negative_regions": [
+      [
+        0.8,
+        0.31,
+        0.97,
+        0.62
+      ]
+    ]
+  },
+  "DJI_0665.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0666.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0667.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0668.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0669.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0670.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0671.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0672.JPG": {
+    "label": "uncertain",
+    "reason": "庭院或道路旁混合树冠和攀援植被，无法仅凭绿色覆盖确认为目标或排除目标。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0693.JPG": {
+    "label": "positive",
+    "reason": "原图复核：电杆左侧及下段附近仍有心形叶藤带与小型浅色花簇，不能作为整图负样本，暂定正。 负裁剪仅取右侧无遮蔽水泥路面，不代表整图阴性。",
+    "regions": [],
+    "negative_regions": [
+      [
+        0.66,
+        0.48,
+        0.84,
+        0.73
+      ]
+    ]
+  },
+  "DJI_0694.JPG": {
+    "label": "positive",
+    "reason": "暂定正：道路或庭院旁可见成片披覆/攀援藤叶及浅色花簇，组合特征支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0695.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0696.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0697.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0698.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0699.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0700.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0701.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0702.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0703.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0704.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0705.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0706.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0707.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0708.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0709.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0710.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0711.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0712.JPG": {
+    "label": "positive",
+    "reason": "原图复核：庭院两侧有藤蔓柱，左下与右下的浅色小花簇清晰可见，暂定目标存在，非专家鉴定。 负裁剪仅取中央瓦屋面，无植被，不代表整图阴性。",
+    "regions": [
+      [
+        0.675,
+        0.69,
+        0.775,
+        0.86
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.28,
+        0.18,
+        0.52,
+        0.4
+      ]
+    ]
+  },
+  "DJI_0713.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0714.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0715.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0716.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0717.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0718.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0719.JPG": {
+    "label": "positive",
+    "reason": "原图复核：可辨攀援细茎、心形叶和小型浅色花簇，暂定目标存在；非专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0720.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0721.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0722.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [
+      [
+        0.64,
+        0.38,
+        0.85,
+        0.68
+      ]
+    ],
+    "negative_regions": []
+  },
+  "DJI_0723.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0724.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0725.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0726.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0727.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0728.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0729.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0730.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0731.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0732.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0733.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0734.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0735.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0736.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0737.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0738.JPG": {
+    "label": "uncertain",
+    "reason": "庭院、农地及路旁混合植被；大范围绿毯或冠层不能单凭颜色判定物种。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0673.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0674.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。 两个负裁剪分别取右侧宽大香蕉叶面及上部裸土枯落物，避开开花藤蔓，不代表整图阴性。",
+    "regions": [
+      [
+        0.51,
+        0.21,
+        0.7,
+        0.48
+      ]
+    ],
+    "negative_regions": [
+      [
+        0.9,
+        0.31,
+        0.985,
+        0.44
+      ],
+      [
+        0.15,
+        0.07,
+        0.42,
+        0.22
+      ]
+    ]
+  },
+  "DJI_0675.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0676.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0677.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0678.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0679.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0680.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0681.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0682.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0683.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0684.JPG": {
+    "label": "positive",
+    "reason": "原图复核：可辨攀援细茎、心形叶和小型浅色花簇，暂定目标存在；非专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0685.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0686.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0687.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0688.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0689.JPG": {
+    "label": "positive",
+    "reason": "暂定正：局部藤蔓披覆宿主，心形至三角形叶片及/或密集小型浅色花簇可辨，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0690.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0691.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0692.JPG": {
+    "label": "uncertain",
+    "reason": "多种阔叶植物、棕榈或棚屋旁藤蔓混杂，目标识别特征在当前视角不足。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0739.JPG": {
+    "label": "positive",
+    "reason": "原图复核：沟渠旁植物被细茎藤蔓和密集浅色小花簇覆盖，心形叶可见，暂定目标存在，非专家鉴定。",
+    "regions": [
+      [
+        0.36,
+        0.3,
+        0.55,
+        0.57
+      ]
+    ],
+    "negative_regions": []
+  },
+  "DJI_0740.JPG": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0741.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0742.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0743.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0744.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0745.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0746.JPG": {
+    "label": "positive",
+    "reason": "原图复核：瓦砾边灌丛上可辨心形叶藤蔓和成片浅色小花簇，暂定目标存在，非专家鉴定。",
+    "regions": [
+      [
+        0.54,
+        0.47,
+        0.67,
+        0.65
+      ]
+    ],
+    "negative_regions": []
+  },
+  "DJI_0747.JPG": {
+    "label": "uncertain",
+    "reason": "原图复核：有攀援树冠和浅色树冠花状结构，但远景混杂宿主叶，无法可靠把花序归属目标；不作负样本。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0748.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0749.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0750.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0751.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0752.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0753.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0754.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0755.JPG": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0756.JPG": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0757.JPG": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0758.JPG": {
+    "label": "positive",
+    "reason": "原图复核：中央低冠层内有连续浅色小花簇与披覆藤叶，暂定目标存在，非专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0759.JPG": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0760.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0761.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0762.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0763.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0764.JPG": {
+    "label": "uncertain",
+    "reason": "沟渠旁混合树冠、草丛和远景；未见足够清晰且可归属目标的特征，保留不确定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "DJI_0765.JPG": {
+    "label": "uncertain",
+    "reason": "原图复核：虽然大部分为道路和屋顶，左下沟沿仍有心形至三角形小叶藤被；无足够诊断花序，不能判负。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123054_188_1763465664908_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123100_189_1763465671354_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123110_190_1763465680975_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123120_191_1763465685105_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123150_192_1763465688666_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123200_193_1763465691687_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123310_194_1763465695355_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123318_195_1763465698456_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123326_196_1763465701898_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123348_197_1763465705125_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_123406_198_1763465708335_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124758_199_1763465711563_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124814_200_1763465714743_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124828_201_1763465717513_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124838_202_1763465720530_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124850_203_1763465723241_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124904_204_1763465725694_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124914_205_1763465728416_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124920_206_1763465731215_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124932_207_1763465734060_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_124940_208_1763465736796_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155758_209_1763465739682_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155800_210_1763465742581_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155820_211_1763465745460_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155836_212_1763465751328_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155850_213_1763465754058_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  },
+  "dji_fly_20251118_155908_214_1763465758033_photo_optimized.jpg": {
+    "label": "positive",
+    "reason": "暂定正：藤蔓覆盖层上浅色小花簇成团，伴随可辨的攀援结构与心形至三角形叶，支持目标存在；不是专家鉴定。",
+    "regions": [],
+    "negative_regions": []
+  }
+}

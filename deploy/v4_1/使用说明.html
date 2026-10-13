@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><title>薇甘菊 V4.1 使用说明</title>
+<style>body{max-width:900px;margin:48px auto;padding:0 24px;font:17px/1.8 system-ui;color:#193d31;background:#f4f7f4}h1,h2{line-height:1.3}section{background:white;border:1px solid #d7e2d8;border-radius:16px;padding:24px;margin:24px 0}.warning{border-left:6px solid #b77d27}code{background:#edf1ed;padding:2px 6px}li{margin:10px 0}</style>
+<h1>薇甘菊识别系统 V4.1</h1><p>Windows 10/11 · 64 位 x64 · 本机 CPU 离线识别 · 测试交付版</p>
+<section class="warning"><h2>先了解版本边界</h2><p>已包含模型、Python运行环境和完整网页，无需另外安装Python、Docker或连接VPN。首次运行如缺少微软 Visual C++ 组件，会提示安装包内的官方组件，可能需要管理员确认。建议至少4GB内存及1GB可用磁盘空间。本包尚未完成Windows实机验收，请先在测试电脑验证。EXE不能在macOS/Linux或32位Windows直接运行。</p></section>
+<section><h2>一、安装和第一次运行</h2><ol>
+<li>推荐双击 <code>Mikania-Setup-4.1.0.exe</code>，确认安装。等待解压完成，桌面会出现 <code>Mikania V4.1</code> 快捷方式。</li>
+<li>也可以使用ZIP免安装版：右键ZIP → “全部解压缩” → 打开解压后的文件夹 → 双击 <code>Mikania.exe</code>。不要在压缩包内直接运行，也不要只复制一个EXE。</li>
+<li>如果提示缺少运行组件，选择安装，按系统提示确认。组件已附带，无需在线下载安装。若电脑不允许安装，请联系管理员；不要关闭安全软件。</li>
+<li>等待窗口显示“本机地址”，浏览器会自动打开识别网页。请保持程序窗口开启；关闭它会停止识别服务。</li>
+<li>浏览器没有自动打开时，复制窗口中的地址。通常是 <code>http://127.0.0.1:18041</code>，如端口被占用会自动选择18042–18050。不要打开程序里的index.html文件。</li>
+</ol><p>安装位置：<code>%LOCALAPPDATA%\Programs\Mikania\4.1.0-20261013</code>。再次安装不会覆盖旧目录；需要重新测试时，可先关闭程序并把旧目录改名留作备份，或换用ZIP解压到新目录。</p></section>
+<section><h2>二、识别照片</h2><ol><li>先点击网页中的“地面实景”等示例，将图片加入待识别队列。</li><li>点击开始识别，等待结果出现。实际耗时取决于电脑性能和照片大小。</li><li>拖入或选择你自己的JPG、PNG、WebP照片，每张不超过20MB。</li><li>查看“检出/未检出”、原图与标注图对照。支持批量处理、下载标注图和导出CSV记录。</li><li>测试时先使用默认阈值，不要把网页中的3.9%理解为准确率。刷新网页前先导出结果，当前队列和历史记录保存在页面会话中。</li></ol></section>
+<section><h2>操作界面参考</h2><p>打开后，先从左侧添加图片，再点击“开始识别”。以下为本包真实模型测试截图。</p><img src="使用说明资源/home.png" alt="识别工作台初始页面" style="width:100%;border-radius:8px"><p>识别完成后，可切换“原图 / 识别结果 / 对比”，也可以保存结果图。</p><img src="使用说明资源/comparison.png" alt="实际识别与原图对照" style="width:100%;border-radius:8px"></section>
+<section class="warning"><h2>三、怎样理解结果</h2><p>V4.1偏重减少漏检，不代表所有照片都能准确识别。已有地面评估74张中检出54/56张阳性，18张阴性误报4张（22.2%）；外部阳性照片98/100检出，无人机阳性照片42/43检出。后两组没有阴性，不能用作总体准确率。</p><p>这些是已使用过的开发/评估数据，不是新采集盲测。绿色区域是粗略定位参考，不是精确目标边界，不能保证覆盖所有薇甘菊。阳性和阴性结果都应结合人工复核。</p></section>
+<section><h2>四、常见问题</h2><ul><li><b>双击后没有网页：</b>看程序窗口是否提示模型加载或错误；按上面的本机地址手动打开。</li><li><b>“无法访问此网站”：</b>确认Mikania程序窗口还开着，使用窗口显示的当前地址。离线版不需要训练服务器在线，也不需要VPN。</li><li><b>模型缺失：</b>重新完整解压；不要移动或删掉 <code>models</code>、<code>runtime</code>、<code>app</code>。</li><li><b>系统安全提示：</b>本测试包未做商业代码签名，系统可能提示未知发布者。先核对来源与SHA256；如单位策略禁止，请联系管理员，不要关闭系统保护。</li><li><b>截图反馈：</b>提供Windows版本、错误截图、出问题的原照片以及日志。日志地址 <code>%LOCALAPPDATA%\Mikania\4.1\logs</code>，可复制到资源管理器地址栏打开。安装失败另查 <code>%TEMP%\mikania-install-error.txt</code>。</li></ul></section>
+<section><h2>五、包里有什么</h2><p><code>models</code>：两个ONNX模型及精确配置；<code>runtime</code>：内置运行时和依赖；<code>app</code>：网页与推理源码；<code>developer</code>：原始PT权重、导出/构建源码、测试和数值验证报告。</p><p>为便于复制，本运行包不包含全部原始训练图片和标注数据；之前的完整研发数据交付保留。全部照片在本机处理，不会自动上传训练服务器。没有自动更新、开机启动或后台遥测。</p><p>卸载：关闭程序，删除本版本安装目录及桌面快捷方式即可；日志单独保留。微软共享运行组件不应随意卸载。</p></section></html>

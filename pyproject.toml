@@ -1,0 +1,50 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mikania-identification"
+version = "0.1.0"
+description = "薇甘菊近景检测与无人机斑块分割研发工具"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "pillow>=11.0,<13",
+]
+
+[project.optional-dependencies]
+dev = [
+  "httpx2>=2.9,<3",
+  "pytest>=8.3,<10",
+  "ruff>=0.9,<1",
+]
+train = [
+  "ultralytics-opencv-headless>=8.4,<9",
+]
+app = [
+  "fastapi>=0.116,<1",
+  "numpy>=2.0,<3",
+  "onnxruntime>=1.22,<2",
+  "opencv-python-headless>=4.11,<6",
+  "python-multipart>=0.0.20,<1",
+  "uvicorn[standard]>=0.35,<1",
+]
+
+[project.scripts]
+mikania-data = "mikania_data.cli:main"
+mikania-train = "mikania_training.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mikania_app", "src/mikania_data", "src/mikania_training"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

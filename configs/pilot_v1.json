@@ -1,0 +1,17 @@
+{
+  "seed": 20260802,
+  "group_window_minutes": 5,
+  "ground_quotas": {
+    "__root__": 34,
+    "其他": 4,
+    "三叶鬼针草": 3,
+    "大青叶": 3,
+    "假臭草": 2,
+    "火炭母": 2,
+    "水蓼": 2,
+    "小花宽叶十万错": 0
+  },
+  "uav_count": 30,
+  "link_mode": "symlink"
+}
+
